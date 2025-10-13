@@ -103,6 +103,11 @@ Have a finished (or even work in progress but generally working) project you'd l
 
 - 🟡 [ReOpenShock](https://github.com/lillithkt/ReOpenShock) - R.E.P.O. integration for shock feedback.
   - Created by [Lillith](https://github.com/lillithkt)
+ 
+### Escape from Tarkov (EFT)
+
+- 🟡 [TarkovShocker](https://github.com/whitezom7/TarkovShocker) - TarkovShocker is a BepInEx plugin for Escape from Tarkov (SPT or modded clients)
+  - Created by [whitezom7](https://github.com/whitezom7)
 
 ## Game Assets
 
