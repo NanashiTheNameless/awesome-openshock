@@ -109,6 +109,10 @@ Have a finished (or even work in progress but generally working) project you'd l
 - 🟡 [TarkovShocker](https://github.com/whitezom7/TarkovShocker) - TarkovShocker is a BepInEx plugin for Escape from Tarkov (SPT or modded clients)
   - Created by [whitezom7](https://github.com/whitezom7)
 
+### VintageStory
+- 🟡 [VintageShock](https://github.com/NanashiTheNameless/VintageShock) - VintageStory shocker integration. [VSModDB](https://mods.vintagestory.at/vintageshock)
+  - Created by [namelessnanashi](https://github.com/NanashiTheNameless/VintageShock)
+
 ## Game Assets
 
 - 🟡 [ZenithVal's ShockOSC Remote](https://zenithval.booth.pm/items/6531509) - VRChat remote prefab for triggering shocks.
