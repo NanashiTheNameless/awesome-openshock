@@ -159,3 +159,9 @@ Have a finished (or even work in progress but generally working) project you'd l
 - 🔴 [FanShock](https://bobadev.gumroad.com/l/fanshock) - Early tip-trigger app for streamers.
   - Created by [Boba Tea Dev](https://bobatea.dev)
   - Replaced by [TipLink](https://tiplink.dev/#pricing)
+
+## Hardware
+
+- [Flat Shocker Mod](https://github.com/tommaier123/FlatShocker)
+  - Replaces the Stock electrodes with flat discs on the CaiXianlin Shockers.
+  - Created by https://github.com/tommaier123
