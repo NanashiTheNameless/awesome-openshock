@@ -33,10 +33,10 @@ Have a finished (or even work in progress but generally working) project you'd l
 
 - 🟢 [OpenShock VROverlay](https://github.com/OpenShock/VROverlay) - OpenVR overlay that displays shock events in VR.
   - Maintained by the OpenShock team
-- 🟡 [ShockAlarm](https://github.com/ComputerElite/ShockAlarmApp) - Feature-rich alternative frontend for mobile, web and Linux.
-  - Created by [ComputerElite](https://github.com/ComputerElite/)
-- 🟡 [3DShock](https://github.com/ComputerElite/3DShock) - Nintendo 3DS homebrew client for controlling OpenShock devices.
-  - Created by [ComputerElite](https://github.com/ComputerElite)
+- 🟡 [ShockAlarm](https://codeberg.org/Kaiya/ShockAlarmApp) - Feature-rich alternative frontend for mobile, web and Linux.
+  - Created by [Kaiya](https://codeberg.org/Kaiya/)
+- 🟡 [3DShock](https://codeberg.org/Kaiya/3DShock) - Nintendo 3DS homebrew client for controlling OpenShock devices.
+  - Created by [Kaiya](https://codeberg.org/Kaiya)
 - 🟡 [VoiceShock](https://github.com/Quatumus/VoiceShock) - Voice recogniztion profanity detector.
   - Created by [Quatumus](https://github.com/Quatumus)
 
